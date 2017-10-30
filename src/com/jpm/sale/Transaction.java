@@ -1,4 +1,4 @@
-package com.jpm.sale;
+package com.jpm.sale; 
 
 import java.util.Date;
 

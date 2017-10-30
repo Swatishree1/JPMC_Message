@@ -1,5 +1,7 @@
 package com.jpm.message;
-
+/**
+json object from jackson jar
+**/
 import com.fasterxml.jackson.annotation.JsonSubTypes;
 import com.fasterxml.jackson.annotation.JsonTypeInfo;
 @JsonTypeInfo(

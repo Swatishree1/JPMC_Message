@@ -1,6 +1,6 @@
 package com.jpm.core;
 
-public enum OperationType {
+public enum OperationType { 
     ADD,
     SUBTRACT,
     MULTIPLY

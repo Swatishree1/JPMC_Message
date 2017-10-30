@@ -1,6 +1,10 @@
 package com.jpm.message;
 
 import com.jpm.core.OperationType;
+/**
+file: AdjustmenyMessage
+log4j to be added.
+**/
 
 public class AdjustmentMessage extends Message {
     OperationType operationType;

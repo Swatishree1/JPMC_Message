@@ -2,25 +2,25 @@
   {
     "class":"AdjustmentMessage",
     "type":"apple",
-    "sellingPrice":"10",
+    "sellingPrice":"20",
     "operationType":"ADD"
   },
   {
     "class":"AdjustmentMessage",
     "type":"banana",
-    "sellingPrice":"7",
+    "sellingPrice":"5",
     "operationType":"MULTIPLY"
   },
   {
     "class":"AdjustmentMessage",
     "type":"apple",
-    "sellingPrice":"10",
+    "sellingPrice":"20",
     "operationType":"MULTIPLY"
   },
   {
     "class":"AdjustmentMessage",
     "type":"mango",
-    "sellingPrice":"7",
+    "sellingPrice":"5",
     "operationType":"SUBTRACT"
   },
   {

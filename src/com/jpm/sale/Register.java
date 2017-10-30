@@ -25,7 +25,7 @@ public class Register {
 
     public boolean addProduct(Product product) {
         if(product == null || records.containsKey(product)) {
-            return false; //can be revised to updating quantity instead, if product != null and functionality needed
+            return false; 
         }
 
         records.put(product, new ArrayList<>());

@@ -1,5 +1,7 @@
 package com.jpm.message;
-
+/**
+log4j tp be added
+**/
 public class DetailedMessage extends Message {
     private long instanceCount;
 

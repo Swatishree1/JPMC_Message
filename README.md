@@ -24,13 +24,8 @@ There are five sample data files:
 5) mixednotifications.json: This file only has notification messages of all Message Types.
 
 ##Next Steps (To-Do list):
-1) Revise project structure. 
-2) Manage dependencies using Maven, for instance.
-3) Add toString methods instead of forming log messages every single time.
-4) Add .gitignore file.
-5) Add (meaningful) tests.
-6) Review code for inconsistency between stringbuilder and "+" usage for string concatenation.
-7) Discuss open questions/concerns and add additional checks.
-8) Refactor code, as and when needed.
+1) if time permits, code refactor need to do.
+2) need to write the testcases- junit.
+
 
 

@@ -12,8 +12,8 @@ response to an API call, but here it is read from commandline.
 
 ##Sample Commandline Arguments:
 1) Please adjust path (in the following strings) as per your needs.
-2) First argument is stock file: /Users/shazia.javed/samples/message-processing-app/src/resources/stock.csv
-3) Second and last argument is notifications file: /Users/shazia.javed/samples/message-processing-app/src/resources/mixednotifications.json
+2) First argument is stock file: /Users/swati/samples/message-processing-app/src/resources/stock.csv
+3) Second and last argument is notifications file: /Users/swati/samples/message-processing-app/src/resources/mixednotifications.json
 
 ##Sample Data:
 There are five sample data files:

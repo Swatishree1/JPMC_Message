@@ -1,10 +1,10 @@
 package com.jpm.product;
 
 public class Product {
-    private String type; //initially I thought of fields: name, type, status, category. It seemed like overengineering so I am keeping fields as were asked, mostly that is.
-    private long inStock; //represents amount available in stock at any given time
-    private long soldOut; //represents total sold out units at any given time (as is updated by incoming messages)
-    private Double unitPrice; //could benefit from BigDecimal here
+    private String type; 
+    private long inStock; 
+    private long soldOut; 
+    private Double unitPrice; 
 
     public Product() {
     }

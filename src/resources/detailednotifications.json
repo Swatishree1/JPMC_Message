@@ -2,31 +2,31 @@
   {
     "class":"DetailedMessage",
     "type":"apple",
-    "sellingPrice":"10",
+    "sellingPrice":"20",
     "instanceCount":"4"
   },
   {
     "class":"DetailedMessage",
     "type":"banana",
-    "sellingPrice":"7",
+    "sellingPrice":"5",
     "instanceCount":"7"
   },
   {
     "class":"DetailedMessage",
     "type":"apple",
-    "sellingPrice":"10",
+    "sellingPrice":"20",
     "instanceCount":"5"
   },
   {
     "class":"DetailedMessage",
     "type":"mango",
-    "sellingPrice":"7",
+    "sellingPrice":"5",
     "instanceCount":"6"
   },
   {
     "class":"DetailedMessage",
     "type":"apple",
-    "sellingPrice":"10",
+    "sellingPrice":"20",
     "instanceCount":"11"
   },
   {
